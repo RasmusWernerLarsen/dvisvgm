@@ -35,7 +35,7 @@
 #else
 # include <gwwiconv.h>
 #endif
-#include "locale.h"
+#include "xlocale.h"
 #include <gnetwork.h>
 
 #ifdef FONTFORGE_CONFIG_USE_DOUBLE
